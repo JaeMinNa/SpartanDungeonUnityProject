@@ -28,6 +28,7 @@
 * List를 순회하여 모든 Item을 인벤토리에 나타냄
 * 인스펙터 창에서 인벤토리의 각 슬롯을 연결하여 각각 이미지를 변경해줌
 <br/>
+
 ```
 using System.Collections;
 using System.Collections.Generc;

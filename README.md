@@ -247,7 +247,6 @@ else
     }
 }
 ```
-
 <br/>
 
 ### 9개의 버튼 함수 생성
@@ -306,7 +305,6 @@ public string GetButtonName()
     return EventButtonName;
 }
 ```
-
 <br/>
 
 ## 📒 프로젝트 소감
